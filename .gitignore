@@ -1,0 +1,55 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code and other IDE settings
+.vscode/
+.idea/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+env.bak/
+
+# Jupyter Notebook output
+*.ipynb_prototype
+*.nb.html
+
+# Data files and datasets
+data/
+*.csv
+*.json
+*.xml
+*.xlsx
+*.xls
+
+# Machine learning artifacts
+*.h5
+*.hdf5
+*.pickle
+*.pkl
+*.joblib
+*.model
+model/
+
+# Logs
+logs/
+*.log
+*.out
+*.err
+
+# Environment files
+*.env
+.env
+
+# MacOS files
+.DS_Store
+
+# System files
+Thumbs.db
